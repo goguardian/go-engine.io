@@ -9,9 +9,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/googollee/go-engine.io/message"
-	"github.com/googollee/go-engine.io/parser"
-	"github.com/googollee/go-engine.io/transport"
+	"github.com/goguardian/go-engine.io/message"
+	"github.com/goguardian/go-engine.io/parser"
+	"github.com/goguardian/go-engine.io/transport"
 )
 
 type MessageType message.MessageType
